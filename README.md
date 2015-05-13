@@ -1,6 +1,6 @@
-TESEC Project [201503001] - [http://www.tesec.eus/](www.tesec.eus)
+TESEC Project [201503001]
 ======
-Version history
+[www.tesec.eus/](http://www.tesec.eus/) - Version history
 
 v.0.0 - Initial Commit
 ------
