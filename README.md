@@ -80,6 +80,7 @@ Gestión de Tráfico
 Realizamos cortes de carriles para obras en todo tipo de vías:
 * Trabajos puntuales.
 * Obras cuya duración vaya a ser mayor.
+* 
 Además, colaboramos en la gestión de tráfico en las operaciones puntuales de tráfico elevado en periodos de vacaciones y puentes. Todos los desvíos se realizan siguiendo la normativa de tráfico vigente utilizando para ello los medios adecuados para cada una de las situaciones e incluso solicitamos los permisos oportunos a las autoridades competentes.
 
 
